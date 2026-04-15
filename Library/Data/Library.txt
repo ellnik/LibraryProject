@@ -1,0 +1,91 @@
+Bibliothek von Owner 1
+----------------
+Bücher:
+
+Information zum Buch:
+Titel: b1 Titel
+Autor: b1 Autor
+Gekauft am 2026-04-09
+Gelesen: false
+Zustand: 0
+
+
+Information zum Buch:
+Titel: Book 0
+Autor: Autor 0
+Gekauft am 2026-04-09
+Gelesen: true
+Zustand: 0
+
+
+Information zum Buch:
+Titel: Book 1
+Autor: Autor 1
+Gekauft am 2026-04-09
+Gelesen: false
+Zustand: 1
+
+
+Information zum Buch:
+Titel: Book 2
+Autor: Autor 2
+Gekauft am 2026-04-09
+Gelesen: false
+Zustand: 2
+
+
+Information zum Buch:
+Titel: Book 3
+Autor: Autor 3
+Gekauft am 2026-04-09
+Gelesen: true
+Zustand: 3
+
+
+Information zum Buch:
+Titel: Book 4
+Autor: Autor 4
+Gekauft am 2026-04-09
+Gelesen: false
+Zustand: 4
+
+
+Information zum Buch:
+Titel: Book 5
+Autor: Autor 5
+Gekauft am 2026-04-09
+Gelesen: false
+Zustand: 5
+
+
+Information zum Buch:
+Titel: Book 6
+Autor: Autor 6
+Gekauft am 2026-04-09
+Gelesen: true
+Zustand: 6
+
+
+Information zum Buch:
+Titel: Book 7
+Autor: Autor 7
+Gekauft am 2026-04-09
+Gelesen: false
+Zustand: 7
+
+
+Information zum Buch:
+Titel: Book 8
+Autor: Autor 8
+Gekauft am 2026-04-09
+Gelesen: false
+Zustand: 8
+
+
+Information zum Buch:
+Titel: Book 9
+Autor: Autor 9
+Gekauft am 2026-04-09
+Gelesen: true
+Zustand: 9
+

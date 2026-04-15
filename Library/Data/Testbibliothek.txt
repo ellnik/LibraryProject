@@ -1,0 +1,47 @@
+Bibliothek von Testbibliothek
+----------------
+Bücher:
+
+Information zum Buch:
+Titel: book.0 Titel
+Autor: book.0 Autor
+Gekauft am 2026-04-13
+Gelesen: true
+Zustand: 0
+
+
+Information zum Buch:
+Titel: book.1 Titel
+Autor: book.1 Autor
+Gekauft am 2026-04-13
+Gelesen: false
+Zustand: 0
+
+
+Information zum Buch:
+Titel: book.2 Titel
+Autor: book.2 Autor
+Gekauft am 2026-04-13
+Gelesen: false
+Zustand: 0
+
+
+Information zum Buch:
+Titel: Der Neben
+Autor: Stephen King
+ISBN: ISBN-12345
+Gelesen: true
+Zustand: 8
+
+
+Information zum Buch:
+Titel: Die Therapie
+Autor: Sebastian Fitzbek
+ISBN: ISBN-99999
+Beschreibung: Ein Buch über sauberen Code.
+Preis: 39.99€
+Bewertung: 5/5
+Rezensionen:
+- Sehr gutes Buch!
+- Ein neuer Kommentar wird gespeichert.
+
