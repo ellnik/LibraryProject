@@ -11,11 +11,17 @@ Das Projekt eignet sich besonders zum Üben von Klassen, Objekten und der Zusamm
 ## Funktionen
 
 📖 Bücher hinzufügen 
+
 📚 Bücher anzeigen
+
 🔍 Bücher suchen
+
 👤 Benutzer verwalten
+
 🏛️ Verwaltung von Bibliotheksdaten
+
 💻 Konsolenausgaben
+
 🧩 Arbeiten mit mehreren Klassen und Objekten
 
 ---
