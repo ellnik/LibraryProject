@@ -1,55 +1,87 @@
-LibraryProjekt
+# 📚 LibraryProjekt
 
-Ein kleines Java-Projekt zur Verwaltung einer Bibliothek.
-Das Programm arbeitet mit Büchern, Benutzern und Bibliotheksfunktionen wie Ausleihen und Verwalten von Medien.
+## Beschreibung
 
-Funktionen
-Bücher hinzufügen
-Bücher anzeigen
-Bücher suchen
-Verwaltung von Bibliotheksdaten
-Arbeiten mit Klassen und Objekten
-Konsolenausgaben
-Projektstruktur
+LibraryProjekt ist ein kleines Java-Projekt zur Verwaltung einer Bibliothek. Das Programm demonstriert grundlegende Konzepte der objektorientierten Programmierung (OOP), indem Bücher und Benutzer verwaltet sowie Bibliotheksfunktionen wie das Ausleihen und Anzeigen von Büchern umgesetzt werden.
 
-Das Projekt besteht aus mehreren Klassen, zum Beispiel:
+Das Projekt eignet sich besonders zum Üben von Klassen, Objekten und der Zusammenarbeit mehrerer Java-Klassen.
 
-Book
-Library
-User
-Main
+---
 
-Jede Klasse hat eine eigene Aufgabe in der Bibliotheksverwaltung.
+## Funktionen
 
-Beispiel
-Buch hinzugefügt
+📖 Bücher hinzufügen
+📚 Bücher anzeigen
+🔍 Bücher suchen
+👤 Benutzer verwalten
+🏛️ Verwaltung von Bibliotheksdaten
+💻 Konsolenausgaben
+🧩 Arbeiten mit mehreren Klassen und Objekten
+
+---
+
+## Projektstruktur
+
+Das Projekt besteht aus mehreren Klassen:
+
+- [x] **Book** – Repräsentiert ein Buch mit Titel und Autor.
+- [x] **User** – Verwaltet die Benutzerdaten.
+- [x] **Library** – Enthält die Bibliothekslogik, z. B. das Verwalten und Suchen von Büchern.
+- [x] **Main** – Startpunkt des Programms.
+
+Jede Klasse übernimmt eine eigene Aufgabe und sorgt für eine übersichtliche Projektstruktur.
+
+---
+
+## Beispielausgabe
+
+Buch erfolgreich hinzugefügt!
+
 Titel: Harry Potter
 Autor: J.K. Rowling
-Verwendete Technologien
-Java
-Eclipse IDE
-Objektorientierte Programmierung (OOP)
-Projekt starten
-Projekt in Eclipse öffnen
-Main.java starten
-Funktionen über die Konsole testen
-Lernziel
 
-Dieses Projekt hilft beim Lernen von:
+---
 
-Klassen und Objekten
-Konstruktoren
-Getter und Setter
-Listen (ArrayList)
-Methoden
-Vererbung
-Objektorientierter Programmierung
-Arbeiten mit mehreren Klassen
-Besonderheiten
-Übersichtliche Struktur
-Einfaches Bibliothekssystem
+## Verwendete Technologien
+
+- Java
+- Eclipse IDE
+- Objektorientierte Programmierung (OOP)
+- ArrayList
+
+---
+
+## Projekt starten
+
+- Projekt in Eclipse importieren oder öffnen.
+- Die Klasse Main.java starten.
+- Die Funktionen über die Konsole testen.
+
+---
+
+## Lernziele
+
+Mit diesem Projekt werden folgende Themen geübt:
+
+- [x] Klassen und Objekte
+- [x] Konstruktoren
+- [x] Getter und Setter
+- [x] Methoden
+- [x] ArrayList
+- [x] Objektorientierte Programmierung (OOP)
+- [x] Zusammenarbeit mehrerer Klassen
+- [x] Strukturierung eines Java-Projekts
+
+---
+
+## Besonderheiten
+
+Übersichtliche Projektstruktur
+Einfaches Bibliotheksverwaltungssystem
 Gute Übung für OOP in Java
-Erweiterbar für neue Funktionen
+Leicht um neue Funktionen erweiterbar
+
+---
 
 Result:https://github.com/ellnik/LibraryProject/blob/master/libraryprojekt1.png
 Result:https://github.com/ellnik/LibraryProject/blob/master/libraryprojekt2.png
